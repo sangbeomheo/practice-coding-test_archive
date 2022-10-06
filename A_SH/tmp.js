@@ -14,4 +14,4 @@ const input = fs.readFileSync(filePath, "utf-8").trim().split("\n");
 console.log(lineInput);
 console.log(wordInput);
 
-console.log("Test2");
+console.log("Test3");
