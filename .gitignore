@@ -1,5 +1,4 @@
-A_S[BH]/*
+# A_S[BH]/
 
-*/.input_사용.js
-*/tmp.js
-*/input*.txt
+# git rm --cached A_SH/ -r
+# git rm --cached A_SB/ -r
