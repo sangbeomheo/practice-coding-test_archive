@@ -1,4 +1,5 @@
-A_S[BH]/
+A_SB/
+A_SH/
 
 # git rm --cached A_SH/ -r
 # git rm --cached A_SB/ -r
